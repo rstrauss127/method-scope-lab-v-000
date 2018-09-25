@@ -1,3 +1,4 @@
 def catch_phrase
-  puts phrase
+   phrase = "AHHHH! Real Monsters!!"
+   phrase
 end
