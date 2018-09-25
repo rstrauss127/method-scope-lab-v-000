@@ -1,4 +1,4 @@
 def catch_phrase
-   phrase = "AHHHH! Real Monsters!!"
+   phrase = "It's-a me, Mario!\n"
    phrase
 end
